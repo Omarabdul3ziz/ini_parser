@@ -9,9 +9,11 @@ version = 0.1
 sample = sample.splitlines()
 
 class Parser:
+    """Reading a text and parse it into proper format,
+    then you can access it by dict accessing"""
     def __init__(self, sample):
         self.sample = sample
-    
+
     def parse(self):
         lines = []
         for line in sample :
