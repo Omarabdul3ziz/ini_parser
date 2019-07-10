@@ -1,7 +1,6 @@
-Summary 
-implemnt INI parser parse a string into proper format can be handeled.
+# Summary
+ implement INI parser parse a string into proper format can be handled.
 
-tutorial
- - put the string sample in 'sample' variable
- - create object from class Parser with a prameter 'sample'
- 
+# Tutorial
+- put the string sample in 'sample' variable.
+ - create object from class Parser with a prameter 'sample'.
